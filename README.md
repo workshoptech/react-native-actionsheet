@@ -168,3 +168,7 @@ https://github.com/beefe/react-native-actionsheet/blob/master/lib/options.js
         <td>{}</td>
     </tr>
 </table>
+
+## Differences from [beefe/react-native-actionsheet](https://github.com/beefe/react-native-actionsheet)
+
+- Add ability to disable buttons (@vasyiok - https://github.com/workshoptech/react-native-actionsheet/pull/1)
