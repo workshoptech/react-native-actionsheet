@@ -1,4 +1,7 @@
 # react-native-actionsheet
+
+Hello, we are [Workshop](https://github.com/workshoptech). We're building an iOS and Android E-learning platform using react-native. Check out the app over at [workshop.ws](https://workshop.ws).
+
 Cross platform ActionSheet. This component implements a custom ActionSheet  and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.
 
 <table>
@@ -166,6 +169,12 @@ https://github.com/beefe/react-native-actionsheet/blob/master/lib/options.js
         <td>only for ActionSheetCustom</td>
         <td></td>
         <td>{}</td>
+    </tr>
+    <tr>
+      <td>disabledIndexes</td>
+      <td>disables specified index (only for ActionSheetCustom)</td>
+      <td>Array</td>
+      <td>[]</td>
     </tr>
 </table>
 
