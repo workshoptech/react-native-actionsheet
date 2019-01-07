@@ -80,6 +80,7 @@ class Demo extends React.Component {
           options={options}
           cancelButtonIndex={0}
           destructiveButtonIndex={4}
+          disabledIndexes=[1]
           onPress={(index) => { /* do something */ }}
         />
       </View>
