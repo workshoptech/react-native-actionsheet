@@ -9,7 +9,7 @@ Cross platform ActionSheet. This component implements a custom ActionSheet  and 
 We've made a few changes to improve react-native-actionsheet to better our use cases.
 
 - Add ability to disable buttons (@vasyiok - https://github.com/workshoptech/react-native-actionsheet/pull/1)
-- Add extra height & padding if iPhoneX (https://github.com/workshoptech/react-native-actionsheet/commit/16c192119cc4abba1308133b3142bdc1b7e14086)
+- Add extra height & padding if iPhoneX ([here](https://github.com/workshoptech/react-native-actionsheet/commit/2f11244edab0d562af8e0ccb990e040d9f34f370))
 
 
 <table>
