@@ -4,6 +4,14 @@ Hello, we are [Workshop](https://github.com/workshoptech). We're building an iOS
 
 Cross platform ActionSheet. This component implements a custom ActionSheet  and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.
 
+## Differences from [beefe/react-native-actionsheet](https://github.com/beefe/react-native-actionsheet)
+
+We've made a few changes to improve react-native-actionsheet to better our use cases.
+
+- Add ability to disable buttons (@vasyiok - https://github.com/workshoptech/react-native-actionsheet/pull/1)
+- Add extra height & padding if iPhoneX (https://github.com/workshoptech/react-native-actionsheet/commit/16c192119cc4abba1308133b3142bdc1b7e14086)
+
+
 <table>
   <tbody>
     <tr>
@@ -178,7 +186,3 @@ https://github.com/beefe/react-native-actionsheet/blob/master/lib/options.js
       <td>[]</td>
     </tr>
 </table>
-
-## Differences from [beefe/react-native-actionsheet](https://github.com/beefe/react-native-actionsheet)
-
-- Add ability to disable buttons (@vasyiok - https://github.com/workshoptech/react-native-actionsheet/pull/1)
